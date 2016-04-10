@@ -1,0 +1,2 @@
+# DUMB
+For Code Competition
